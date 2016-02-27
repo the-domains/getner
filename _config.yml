@@ -1,0 +1,28 @@
+name: getner
+favicon: null
+layout_spectrum: 0.03626249125227332
+typography_spectrum: 0.5065043761860579
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.28906864230521023
+  lightness: 0.1802937649190426
+  saturation: 0.3844162861350924
+  rhythmicContrast: 0.45958064240403473
+purpose: []
