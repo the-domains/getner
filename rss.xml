@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[getner]]></title>
+        <description><![CDATA[getner]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 27 Feb 2016 23:20:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Amazon-ification of the Enterprise]]></title>
+            <description><![CDATA[<article><h1>The Amazon-ification of the Enterprise</h1><p>Ever since I read Steve Yegge’s thoughtful “Platform Rant” about his time at Amazon and specific frustration at Google, I have been fascinated by the this largely unreported, titanic shift in IT thinking that underlies all the buzzwords of ‘Cloud’, ‘Apps’, ‘APIs’ and ‘X as a Service’. In my mind I think of it as the ‘Amizonification’ of the enterprise… but I’m sure there are catchier names.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62dc929ab96362dae9a12e8c352244fe364501fb.png"></article>]]></description>
+            <link>undefinedthe-amazon-ification-of-the-enterprise/index.html</link>
+            <guid isPermaLink="false">633bcaf9-a7e6-418a-8293-b0f4ed7ad815</guid>
+            <pubDate>Sat, 27 Feb 2016 23:19:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
