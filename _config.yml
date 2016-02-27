@@ -1,6 +1,6 @@
 name: getner
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.41301
 title: The Accidental Entrepreneur
 cta:
@@ -22,7 +22,7 @@ color:
     - '#000000'
     - '#666666'
     - '#c5c5c5'
-  brandStrength: 0.4375
+  brandStrength: 0.3125
   lightness: 0.25
   saturation: 0.625
   rhythmicContrast: 0.45958064240403473
