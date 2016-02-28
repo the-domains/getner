@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.625
+  saturation: 0.2741936
   brandStrength: 0.3125
-  lightness: 0.6666667
+  lightness: 0.3781362
   brandColors:
     - '#ffffff'
     - '#00548b'
     - '#000000'
     - '#666666'
     - '#c5c5c5'
-  rhythmicContrast: 0.4595806
+  rhythmicContrast: 0.6075269
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: getner
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.41301
-layout_spectrum: 0
+layout_spectrum: 0.2383513
