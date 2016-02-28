@@ -15,14 +15,14 @@ collections:
 color:
   saturation: 0.625
   brandStrength: 0.3125
-  rhythmicContrast: 0.4595806424040347
+  lightness: 0.6666667
   brandColors:
     - '#ffffff'
     - '#00548b'
     - '#000000'
     - '#666666'
     - '#c5c5c5'
-  lightness: 0.25
+  rhythmicContrast: 0.4595806
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: getner
 favicon: null
+name: getner
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.41301
-layout_spectrum: 1
+layout_spectrum: 0
