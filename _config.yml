@@ -1,29 +1,41 @@
-name: getner
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.41301
 title: The Accidental Entrepreneur
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.625
+  brandStrength: 0.3125
+  rhythmicContrast: 0.4595806424040347
   brandColors:
     - '#ffffff'
     - '#00548b'
     - '#000000'
     - '#666666'
     - '#c5c5c5'
-  brandStrength: 0.3125
   lightness: 0.25
-  saturation: 0.625
-  rhythmicContrast: 0.45958064240403473
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: getner
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.41301
+layout_spectrum: 1
